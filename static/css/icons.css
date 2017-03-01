@@ -1,0 +1,399 @@
+@font-face {
+    font-family: 'fab-ingcons';
+    src:  url('../fonts/fab-ingcons4695.eot?9n959m');
+    src:  url('../fonts/fab-ingcons4695.eot?9n959m#iefix') format('embedded-opentype'),
+    url('../fonts/fab-ingcons4695.ttf?9n959m') format('truetype'),
+    url('../fonts/fab-ingcons4695.woff?9n959m') format('woff'),
+    url('../fonts/fab-ingcons4695.svg?9n959m#fab-ingcons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icon-volume-harder:before {
+  content: "\e90e";
+}
+.icon-whatsapp:before {
+  content: "\e90f";
+}
+.icon-imgur:before {
+  content: "\e90c";
+}
+.icon-viadeo:before {
+  content: "\e90b";
+}
+.icon-Balloon:before {
+  content: "\e905";
+}
+.icon-Clouds:before {
+  content: "\e90a";
+}
+.icon-earntheprimaryrelationshipv2:before {
+  content: "\e92e";
+}
+.icon-enviromental:before {
+  content: "\e92b";
+}
+.icon-OurServicesProducts:before {
+  content: "\e92c";
+}
+.icon-SocialNetwork:before {
+  content: "\e92d";
+}
+.icon-Thinkingbeyond:before {
+  content: "\e900";
+}
+.icon-Thinkingbeyondv2:before {
+  content: "\e901";
+}
+.icon-knowingyourcustomerv3:before {
+  content: "\e902";
+}
+.icon-knowingyourcustomerv2:before {
+  content: "\e903";
+}
+.icon-knowingyourcustomerv1:before {
+  content: "\e904";
+}
+.icon-acceleratinginnovationcopy:before {
+  content: "\e906";
+}
+.icon-Mobile_Banking:before {
+  content: "\e907";
+}
+.icon-ING_Wind_Energy:before {
+  content: "\e908";
+}
+.icon-Umbrella:before {
+  content: "\e909";
+}
+.icon-Bar_Charts:before {
+  content: "\e90d";
+}
+.icon-Community:before {
+  content: "\e910";
+}
+.icon-Community_Answer:before {
+  content: "\e911";
+}
+.icon-Contactless_Payment:before {
+  content: "\e912";
+}
+.icon-Diagram:before {
+  content: "\e913";
+}
+.icon-Different_Profession_Banker:before {
+  content: "\e914";
+}
+.icon-Down_Up:before {
+  content: "\e915";
+}
+.icon-Infographic_Government_Help:before {
+  content: "\e916";
+}
+.icon-Infographic_Lender_Take_The_Property:before {
+  content: "\e917";
+}
+.icon-Infographic_Shareholders_Equitity:before {
+  content: "\e918";
+}
+.icon-Infographic_Switch_To_A_Different_Mortgage:before {
+  content: "\e919";
+}
+.icon-Internet_Banking:before {
+  content: "\e91a";
+}
+.icon-Manager:before {
+  content: "\e91b";
+}
+.icon-Mobile_Payment:before {
+  content: "\e91c";
+}
+.icon-Mortgage:before {
+  content: "\e91d";
+}
+.icon-My_Quicklinks:before {
+  content: "\e91e";
+}
+.icon-Note:before {
+  content: "\e91f";
+}
+.icon-Others_Bank_Card:before {
+  content: "\e920";
+}
+.icon-Others_Chat:before {
+  content: "\e921";
+}
+.icon-Others_Indexes:before {
+  content: "\e922";
+}
+.icon-Others_Service_Desk:before {
+  content: "\e923";
+}
+.icon-Person:before {
+  content: "\e924";
+}
+.icon-Screen:before {
+  content: "\e925";
+}
+.icon-Shopping_Bag:before {
+  content: "\e926";
+}
+.icon-Spending:before {
+  content: "\e927";
+}
+.icon-Travel_Suitcase:before {
+  content: "\e928";
+}
+.icon-WorksCouncil_Collaboration:before {
+  content: "\e929";
+}
+.icon-WorksCouncil_Professionalise:before {
+  content: "\e92a";
+}
+.icon-instagram:before {
+  content: "\e62e";
+}
+.icon-instagram-square .path1:before {
+  content: "\e62f";
+  color: rgb(168, 168, 168);
+}
+.icon-instagram-square .path2:before {
+  content: "\e630";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-instagram-square .path3:before {
+  content: "\e631";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-instagram-square .path4:before {
+  content: "\e632";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-pinterest:before {
+  content: "\e633";
+}
+.icon-pinterest-square .path1:before {
+  content: "\e634";
+  color: rgb(168, 168, 168);
+}
+.icon-pinterest-square .path2:before {
+  content: "\e635";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-angle-down:before {
+  content: "\e60b";
+}
+.icon-arrow-down:before {
+  content: "\e60b";
+}
+.icon-angle-left:before {
+  content: "\e60c";
+}
+.icon-arrow-left:before {
+  content: "\e60c";
+}
+.icon-angle-right:before {
+  content: "\e60d";
+}
+.icon-arrow-right:before {
+  content: "\e60d";
+}
+.icon-angle-up:before {
+  content: "\e60e";
+}
+.icon-arrow-up:before {
+  content: "\e60e";
+}
+.icon-file-document:before {
+  content: "\e622";
+}
+.icon-file-excel .path1:before {
+  content: "\e623";
+  color: rgb(255, 97, 1);
+}
+.icon-file-excel .path2:before {
+  content: "\e624";
+  margin-left: -1em;
+  color: rgb(255, 97, 1);
+}
+.icon-file-excel .path3:before {
+  content: "\e625";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-file-pdf .path1:before {
+  content: "\e626";
+  color: rgb(255, 97, 1);
+}
+.icon-file-pdf .path2:before {
+  content: "\e627";
+  margin-left: -1em;
+  color: rgb(255, 97, 1);
+}
+.icon-file-pdf .path3:before {
+  content: "\e628";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-file-word .path1:before {
+  content: "\e629";
+  color: rgb(255, 97, 1);
+}
+.icon-file-word .path2:before {
+  content: "\e62a";
+  margin-left: -1em;
+  color: rgb(255, 97, 1);
+}
+.icon-file-word .path3:before {
+  content: "\e62b";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-periscope .path1:before {
+  content: "\e62c";
+  color: rgb(168, 168, 168);
+}
+.icon-periscope .path2:before {
+  content: "\e62d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-alert:before {
+  content: "\e600";
+}
+.icon-alert-outline:before {
+  content: "\e601";
+}
+.icon-speaker:before {
+  content: "\e008";
+}
+.icon-play:before {
+  content: "\25b8";
+}
+.icon-marker:before {
+  content: "\e612";
+}
+.icon-arrow-right-up:before {
+  content: "\e610";
+}
+.icon-looking-glass:before {
+  content: "\e613";
+}
+.icon-clock:before {
+  content: "\e611";
+}
+.icon-info:before {
+  content: "\e60f";
+}
+.icon-close:before {
+  content: "\e602";
+}
+.icon-search:before {
+  content: "\e621";
+}
+.icon-checkmark:before {
+  content: "\2713";
+}
+.icon-youtube:before {
+  content: "\e603";
+}
+.icon-slideshare:before {
+  content: "\e00a";
+}
+.icon-rss:before {
+  content: "\e00c";
+}
+.icon-linkedin:before {
+  content: "\e00d";
+}
+.icon-facebook:before {
+  content: "\e00f";
+}
+.icon-email:before {
+  content: "\2709";
+}
+.icon-twitter:before {
+  content: "\e00e";
+}
+.icon-googleplus:before {
+  content: "\e010";
+}
+.icon-investor-media-app:before {
+  content: "\e607";
+}
+.icon-blog:before {
+  content: "\e604";
+}
+.icon-flickr:before {
+  content: "\e608";
+}
+.icon-award:before {
+  content: "\e615";
+}
+.icon-calendar:before {
+  content: "\e616";
+}
+.icon-clock2:before {
+  content: "\e617";
+}
+.icon-employees:before {
+  content: "\e618";
+}
+.icon-people:before {
+  content: "\e619";
+}
+.icon-euro-bigeuro:before {
+  content: "\e61a";
+}
+.icon-euro:before {
+  content: "\e61b";
+}
+.icon-moneybag:before {
+  content: "\e61c";
+}
+.icon-pig:before {
+  content: "\e61d";
+}
+.icon-search2:before {
+  content: "\e61e";
+}
+.icon-up-down-arrow:before {
+  content: "\e61f";
+}
+.icon-windmills:before {
+  content: "\e620";
+}
+.icon-checkmark2:before {
+  content: "\e614";
+}
+.icon-book:before {
+  content: "\e60a";
+}
+.icon-close-thin:before {
+  content: "\e609";
+}
+.icon-toggle-plus:before {
+  content: "\2b";
+}
+.icon-toggle-min:before {
+  content: "\2d";
+}
+.icon-toggle-plus-light:before {
+  content: "\e005";
+}
+.icon-toggle-min-light:before {
+  content: "\e006";
+}
+.icon-menu:before {
+  content: "\2261";
+}
+.icon-file-audio:before {
+  content: "\e605";
+}
+.icon-file-video:before {
+  content: "\e606";
+}
